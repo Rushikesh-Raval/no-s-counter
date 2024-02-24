@@ -1,0 +1,40 @@
+button{
+    border: 1px solid black;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#increment-btn{
+    background-color: green;
+}
+#Save-btn{
+    background-color: orange;
+}
+.reset{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0.4rem;
+    float: left;
+}
+
+body{
+    background-color: #49CEF1;
+}
+.card{
+    height: 11rem;
+}
+.card-out{
+    background-color: #FF6566;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10rem;
+}
+h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
